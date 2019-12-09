@@ -1,0 +1,13 @@
+E:\codeChallenge\Final\dotnet-code-challenge\bin\Debug\netcoreapp2.0\dotnet_code_challenge.deps.json
+E:\codeChallenge\Final\dotnet-code-challenge\bin\Debug\netcoreapp2.0\dotnet_code_challenge.runtimeconfig.json
+E:\codeChallenge\Final\dotnet-code-challenge\bin\Debug\netcoreapp2.0\dotnet_code_challenge.runtimeconfig.dev.json
+E:\codeChallenge\Final\dotnet-code-challenge\bin\Debug\netcoreapp2.0\dotnet_code_challenge.dll
+E:\codeChallenge\Final\dotnet-code-challenge\bin\Debug\netcoreapp2.0\dotnet_code_challenge.pdb
+E:\codeChallenge\Final\dotnet-code-challenge\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+E:\codeChallenge\Final\dotnet-code-challenge\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+E:\codeChallenge\Final\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet-code-challenge.csproj.CoreCompileInputs.cache
+E:\codeChallenge\Final\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet-code-challenge.AssemblyInfoInputs.cache
+E:\codeChallenge\Final\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet-code-challenge.AssemblyInfo.cs
+E:\codeChallenge\Final\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet-code-challenge.csproj.CopyComplete
+E:\codeChallenge\Final\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet_code_challenge.dll
+E:\codeChallenge\Final\dotnet-code-challenge\obj\Debug\netcoreapp2.0\dotnet_code_challenge.pdb

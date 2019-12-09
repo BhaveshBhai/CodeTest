@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\codeChallenge\\Final\\dotnet-code-challenge\\dotnet-code-challenge.csproj": {}
+  },
+  "projects": {
+    "E:\\codeChallenge\\Final\\dotnet-code-challenge\\dotnet-code-challenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\codeChallenge\\Final\\dotnet-code-challenge\\dotnet-code-challenge.csproj",
+        "projectName": "dotnet_code_challenge",
+        "projectPath": "E:\\codeChallenge\\Final\\dotnet-code-challenge\\dotnet-code-challenge.csproj",
+        "packagesPath": "C:\\Users\\bhavesh\\.nuget\\packages\\",
+        "outputPath": "E:\\codeChallenge\\Final\\dotnet-code-challenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bhavesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
